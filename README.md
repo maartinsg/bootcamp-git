@@ -2,4 +2,14 @@
 # bootcamp-git
 
 Temporal Repository for the Cloud and Automation Bootcamp
-Initial comment made by and broke by ralfs
+<<<<<<< HEAD
+=======
+
+feature-5
+this line was added by Anna
+
+
+broken again by ralfs 
+>>>>>>> master
+
+
