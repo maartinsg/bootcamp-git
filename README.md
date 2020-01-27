@@ -7,6 +7,13 @@ Feature karlis-1
 # ainars-branch
 This is my first pull req
 
+# vlad-branch
+Feature 1
+This feature adds a feature
+Kernel feature
+*FIXED*
+
+
 feature-5
 this line was added by Anna
 
