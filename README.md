@@ -6,6 +6,13 @@ Feature karlis-1
 	that is all
 =======
 
+# ainars-branch
+This is my first pull req
+
 feature-5
 this line was added by Anna
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
 >>>>>>> master
