@@ -1,8 +1,19 @@
+
 # Feature 1
 This is featue
 superpower
 # bootcamp-git
+
 Temporal Repository for the Cloud and Automation Bootcamp
+   
+
+
+# ralfs
+#!/bin/bash
+echo"I really messed up this thing"
+
+
+
 Feature karlis-1
 	lists the date
 	that is all
@@ -19,4 +30,11 @@ Kernel feature
 
 feature-5
 this line was added by Anna
+
+
+
+
+
+
+
 
