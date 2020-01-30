@@ -32,10 +32,6 @@ Kernel feature
 feature-5
 this line was added by Anna
 
-
-
-
-
-
-
+feature-9
+prints if /etc/profile file for /bin/bash exists along with the date
 
